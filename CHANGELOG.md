@@ -1,7 +1,6 @@
 # Change Log
 
-## [1.0.0] 2020-06-08
+## [1.0.0] 2020-07-25
 ### Initial Release
 
-- Update Licensing information
-- Add CHANGELOG.md to track all changes
+- UI Build timestamp - 2020-07-25
