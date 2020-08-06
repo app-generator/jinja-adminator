@@ -1,4 +1,4 @@
-# [Jinja2 Template - Adminator](https://jinja2-adminator.appseed.us/)
+# [Jinja Template - Adminator](https://jinja2-adminator.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -25,7 +25,7 @@
 
 <br />
 
-![Jinja2 Adminator - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja2-adminator/master/media/jinja2-adminator-screen.png)
+![Jinja Template - Adminator.](https://raw.githubusercontent.com/app-generator/jinja2-adminator/master/media/jinja2-adminator-screen.png)
 
 <br />
 
@@ -186,4 +186,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja2 Template - Adminator](https://jinja2-adminator.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template - Adminator](https://jinja2-adminator.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
