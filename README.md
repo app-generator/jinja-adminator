@@ -1,8 +1,8 @@
-# [Jinja Template - Adminator](https://jinja2-adminator.appseed.us/)
+# [Jinja Template](https://github.com/app-generator/jinja-template) - Adminator
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
-- UI Kit: **Adminator** (Free Version) by **ColorLib**
+- UI Kit: **Adminator** (Free Version) by **[ColorLib](https://appseed.us/agency/colorlib)**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - **[MIT License](https://github.com/app-generator/license-mit)**
 - Free support via **Github** issues tracker
@@ -18,11 +18,6 @@
 ## UI Kit - [Adminator](https://colorlib.com/polygon/adminator/?ref=appseed)
 
 *Vendor Notes* - Adminator is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications, and some useful widgets. The modern and clean UI makes this design a good candidate for your next project.
-
-> Links
-
-- [Adminator](https://github.com/puikinsh/Adminator-admin-dashboard) - Source Code
-- [Adminator Demo](https://colorlib.com/polygon/adminator/)
 
 <br />
 
@@ -187,4 +182,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template - Adminator](https://jinja2-adminator.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template](https://github.com/app-generator/jinja-template) Adminator - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
