@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.3] 2022-08-07
+### Improvements
+
+- Use Gulp-Generated version
+  - [Adminator](https://github.com/app-generator/adminator) **v2.0.3**
+
 ## [1.0.2] 2022-06-11
 ### Fix
 
